@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div#login{
+    margin: 150px auto 10px auto;
+    width: 420px;
+    background-color: rgb(43, 41, 41);
+    border-radius: 10px;
+    padding: 10px;   
+    color: aliceblue; 
+}
+input#form-control{
+    display: block;
+    height: 55px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+input#acessar{
+    margin: 10px 0px 5px;
+    height: 50px;
+    width: 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1#pri{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(79, 180, 79);
+}
+
+
